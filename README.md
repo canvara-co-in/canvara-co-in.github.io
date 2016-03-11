@@ -1,2 +1,1 @@
-# canvara-co-in.github.io
-Canvara Site
+# Site Canvara.co.in #
